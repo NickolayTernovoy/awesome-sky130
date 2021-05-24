@@ -5,7 +5,7 @@
 * [**efabless**](https://efabless.com/) - site of the manufacturer's factory. here you can find the launch dates, requirements for participation in the competition for the free release of your chip
 * [**Open MPW Program**](https://www.youtube.com/watch?v=jBrBqhVNgDo&ab_channel=efabless) - video about the open MWP initiative with examples of working with openlane toolchain
 * [**open_mpw_faq**](https://efabless.com/open_mpw_faq) - FAQS for the openx MPW shuttle program
-* [**open_shuttle_program**](https://efabless.com/open_shuttle_program/2) - MPW-TWO PROJECTS
+* [**efabless_projects**](https://www.efabless.com/projects/public) - PUBLIC PROJECTS
 * [**Caravel**](https://github.com/efabless/caravel) -  Caravel repo
 * [**Caravel user project features**](https://www.youtube.com/watch?v=zJhnmilXGPo&ab_channel=efabless) - youtube video
 * [**How to integrate your design with Caravel?**](https://youtu.be/9QV8SDelURk) - youtube video
